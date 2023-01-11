@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\bin\Debug\net6.0\Exercise 3.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\bin\Debug\net6.0\Exercise 3.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\bin\Debug\net6.0\Exercise 3.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\bin\Debug\net6.0\Exercise 3.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\bin\Debug\net6.0\Exercise 3.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\obj\Debug\net6.0\Exercise 3.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\obj\Debug\net6.0\Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\obj\Debug\net6.0\Exercise 3.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\obj\Debug\net6.0\Exercise 3.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\obj\Debug\net6.0\Exercise 3.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\obj\Debug\net6.0\Exercise 3.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\obj\Debug\net6.0\refint\Exercise 3.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\obj\Debug\net6.0\Exercise 3.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\obj\Debug\net6.0\Exercise 3.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVN slot 123\BTVN slot 123\obj\Debug\net6.0\ref\Exercise 3.dll
